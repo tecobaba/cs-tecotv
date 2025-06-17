@@ -1,9 +1,9 @@
 version = 0
 
 cloudstream {
-    authors     = listOf("keyiflerolsun")
+    authors     = listOf("tecotv")
     language    = "tr"
-    description = "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz."
+    description = "Donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz."
 
     /**
      * Status int as the following:
